@@ -1,16 +1,11 @@
 # flutterbasic
 
-A new Flutter project.
+Yeni bir Flutter projesi.
 
-## Getting Started
+## Başlangıç
 
-This project is a starting point for a Flutter application.
+Bu proje, bir Flutter uygulaması için başlangıç ​​noktasıdır.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Kullanıcı hangi ilaçları günde kaç sefer ve hangi zamanlarda alacak ise program üzerinden bu bilgileri cihazın hafızasına kaydeder.
+İlgili hergün ilgili zaman geldiginde ekranda bildirim gözükür kullanıcı ertele butonuna basınca ilgili bildirim ekrandan kaybolur
+ve 1 dakika sonra yeniden bildirim oluşur. taki ilacı aldım deyinceye kadar.
